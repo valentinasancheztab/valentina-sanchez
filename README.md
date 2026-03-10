@@ -1,7 +1,9 @@
 <div algin = "center">
 <h1 align="center">Hola, soy Valentina👋</h1>
 </div>
-![descripcion](ea30fc7b-dbbe-4d23-a3f3-5fb462322717.jpg)
+<div align="center">
+<img src="ea30fc7b-dbbe-4d23-a3f3-5fb462322717.jpg" width="300">
+</div>
 
 Soy una estudiantes apasionada por la tecnología y el aprendizaje de programación.
 Siempre estoy con la motivacion de aprender cosas nuevas para mejorar mis habilidades de programación.
