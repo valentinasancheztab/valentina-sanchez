@@ -40,4 +40,12 @@ Mis principales cualidades son la creatividad, soy alegre y una persona muy apli
 
 Estoy aprendiendo y practicando con proyectos y tareas academicas para mejorar mis habilidades como desarrolladora. 
 
+<div algin = "center">
+<h1 align="center">🎯Objetivo</h1>
+</div>
 
+Seguir aprendiendo sobre programación, desarrollar proyectos cada vez más completos y contribuir a proyectos en el mundo del software.
+
+
+
+⭐ Gracias por visitar mi perfil
