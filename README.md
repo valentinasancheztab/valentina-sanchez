@@ -1,7 +1,7 @@
 <div algin = "center">
 <h1 align="center">Hola, soy Valentina👋</h1>
 </div>
-![Mi foto](a30fc7b-dbbe-4d23-a3f3-5fb462322717.jpg)
+![descripcion](a30fc7b-dbbe-4d23-a3f3-5fb462322717.jpg)
 
 Soy una estudiantes apasionada por la tecnología y el aprendizaje de programación.
 Siempre estoy con la motivacion de aprender cosas nuevas para mejorar mis habilidades de programación.
